@@ -4,7 +4,7 @@
 
 
 /*  */
-.main{background: url(../../two-form/src/assets/banner.jpg) no-repeat center; background-size: cover;}
+.main{background: url(../src/assets/banner.jpg) no-repeat center; background-size: cover;}
 .centerd-div {
     background: #0000000a;
     padding: 25px;
